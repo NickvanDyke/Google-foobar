@@ -31,6 +31,3 @@ def answer(M, F):
         return gen
     else:
         return "impossible"
-
-print(answer("4", "7"))
-
