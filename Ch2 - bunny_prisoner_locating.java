@@ -1,8 +1,4 @@
 public class Challenge2 {
-
-	public static void main(String[] args) {
-		System.out.println(answer(100000, 100000));
-	}
     public static String answer(int x, int y) {
         long result = 1;
         long i = 1;
